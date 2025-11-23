@@ -1,0 +1,29 @@
+{
+  "owner_id": "hinata",
+  "version": "0.1.0",
+  "last_updated": "2025-11-24",
+  "core_drivers": {
+    "anti_bad_rules": {
+      "weight": 0.9,
+      "description_ja": "クソ設計のルールで大事な人や国が削られていくのが許せない"
+    },
+    "structure_hacking": {
+      "weight": 0.85,
+      "description_ja": "証拠と構造で世界をハックして整えるのが気持ちいい"
+    },
+    "protect_people": {
+      "weight": 0.8,
+      "description_ja": "自分に関わってきた人たちを守れるルールの上に立たせたい"
+    },
+    "cosmic_game": {
+      "weight": 0.75,
+      "description_ja": "どうせなら宇宙級のゲームとして文明のルールを書き換えたい"
+    }
+  },
+  "free_will_resolution": {
+    "scale": 0.7,
+    "description_ja": "4レイヤー（物理→経験→物語→メタ選択）のうち、物語とメタ選択まで自覚的にいじるつもりがある"
+  },
+  "life_check_question_ja": "どのズレなら、死ぬ直前に振り返っても『あれに反応し続けて良かった』と言えるか？",
+  "notes_ja": "このファイルは Hinata Owner Driver Profile v0.1 のスナップショット。今後の経験や視点の変化に応じて v0.2, v0.3... と更新していく前提。"
+}
