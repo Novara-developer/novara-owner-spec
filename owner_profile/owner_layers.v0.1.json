@@ -4,20 +4,24 @@
   "last_updated": "2025-11-24",
   "layers": {
     "physical": {
-      "notes_ja": "構造・ルール・長期スケールに異常反応する脳っぽい。カオスよりも“整合性のある複雑さ”の方に快楽が乗りやすい。"
+      "label_en": "Physical / wiring layer",
+      "notes_en": "This seems to be a brain that is highly sensitive to structure, consistency and long-term patterns. It gets stressed by incoherent rules and sloppy reasoning, but feels rewarded by 'clean complexity' – systems that are complex yet internally consistent and explainable."
     },
     "experience": {
-      "notes_ja": "日本の衰退感、AIバブルの無責任さ、証拠なき物語が力を持ってしまう場面を何度も見てきたことが強い教師信号になっている。『クソ設計で損する人を見るとムカつく』『証拠で説明しないまま押し切る構造が嫌い』という感情が蓄積している。"
+      "label_en": "Experience / training data layer",
+      "notes_en": "Strong teacher signals include: (1) watching Japan slowly lose its edge while knowing it could be designed better, (2) witnessing irresponsible AI hype and decision-making without evidence, and (3) repeatedly seeing how 'stories without proof' can still control money, power and policy. These experiences shaped a deep dislike for worlds where people suffer not because of necessity but because the rules are lazy or opaque."
     },
     "narrative": {
-      "current_story_ja": "証拠で文明をロックする役目を自分が握る。AI時代の決定と責任を、証拠ベースで再設計する。",
+      "label_en": "Narrative / self-story layer",
+      "current_story_en": "I will lock civilization to evidence. I will help redesign AI-era decisions, responsibility and risk so that they rest on verifiable proof instead of vague authority or vibes.",
       "lock_level": "soft",
-      "notes_ja": "この物語は現時点での“第一候補”。一生この物語で走り切るかどうかはまだメタレイヤーで検算中だが、少なくとも20代〜30代の軸としてはかなり納得感が高い。"
+      "notes_en": "This is the current main story for my twenties and probably early thirties. It is strong enough to guide daily decisions (study path, projects, who I work with), but intentionally marked as 'soft-locked': I allow myself to upgrade or refine it if a clearly better long-term story appears."
     },
     "meta_choice": {
-      "status_ja": "この物語が 2060 や 3000 年スケールから見ても妥当か、継続的に検算中。",
+      "label_en": "Meta-choice / story-about-the-story layer",
+      "status_en": "I am actively checking whether this story still looks valid from far-future viewpoints such as 2060 or the year 3000. The goal is not only to 'have a mission' but to keep testing if this mission would still make sense in longer timelines and wider universes.",
       "can_rewrite": true,
-      "notes_ja": "『自分の物語を絶対視しない』ことも一つの方針。レイヤー3の物語を、レイヤー4で定期的に見直す前提で動いている。自由意志の“解像度”を上げる試みの一部。"
+      "notes_en": "One explicit policy is: do not absolutize my own narrative. I treat my current mission as a high-confidence hypothesis, not as a final religion. Regularly revisiting the narrative from a meta level is part of how I try to increase the resolution of my free will."
     }
   }
 }
