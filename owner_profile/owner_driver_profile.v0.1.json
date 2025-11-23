@@ -5,25 +5,50 @@
   "core_drivers": {
     "anti_bad_rules": {
       "weight": 0.9,
-      "description_ja": "クソ設計のルールで大事な人や国が削られていくのが許せない"
+      "label_en": "Refusal of bad rules",
+      "description_en": "I cannot stand worlds where sloppy, unfair or incoherent rules quietly destroy people’s lives or the potential of a country. If a system hurts people not because of necessity but because of bad design, I feel an urge to redesign it from the ground up.",
+      "typical_triggers_en": [
+        "Unclear responsibility in AI or government decisions",
+        "People being punished or excluded because of opaque processes",
+        "Institutions running on vibes and hierarchy instead of transparent criteria"
+      ]
     },
     "structure_hacking": {
       "weight": 0.85,
-      "description_ja": "証拠と構造で世界をハックして整えるのが気持ちいい"
+      "label_en": "Pleasure of structure hacking",
+      "description_en": "I feel genuine enjoyment when I can take something messy, vague or emotional and turn it into a clear structure: definitions, layers, protocols, proofs. Hacking the world through concepts, evidence and protocols is intrinsically fun to me.",
+      "typical_triggers_en": [
+        "Turning a vague problem into a clean 3–4 layer model",
+        "Designing protocols that make cheating or lying structurally difficult",
+        "Seeing people suddenly understand a complex idea because of a better structure"
+      ]
     },
     "protect_people": {
       "weight": 0.8,
-      "description_ja": "自分に関わってきた人たちを守れるルールの上に立たせたい"
+      "label_en": "Protecting my people",
+      "description_en": "I want the people who trusted me or crossed paths with me to stand on better rules, not be sacrificed by stupid systems. If someone close to me is harmed by a rigged game, I feel personally responsible for not having changed the rules early enough.",
+      "typical_triggers_en": [
+        "Friends being blocked by unfair school or job systems",
+        "Talent wasted because the environment is badly designed",
+        "Seeing people around me accept 'that’s just how it is' when it is clearly a design failure"
+      ]
     },
     "cosmic_game": {
       "weight": 0.75,
-      "description_ja": "どうせなら宇宙級のゲームとして文明のルールを書き換えたい"
+      "label_en": "Playing a cosmic-scale game",
+      "description_en": "If I am going to live only once in this universe, I want to treat civilization itself as a long game and try to move its rules, not just survive inside them. I am attracted to moves that still make sense when you look from the year 2060, 2100 or even 3000.",
+      "typical_triggers_en": [
+        "Questions about AGI/ASI, long-term governance and multi-century effects",
+        "Designing systems that could still be audited or understood hundreds of years later",
+        "Thinking about how today’s decisions will look from very far future perspectives"
+      ]
     }
   },
   "free_will_resolution": {
     "scale": 0.7,
-    "description_ja": "4レイヤー（物理→経験→物語→メタ選択）のうち、物語とメタ選択まで自覚的にいじるつもりがある"
+    "description_en": "On a 0–1 scale, I estimate that about 0.7 of my behavior can be consciously steered by inspecting and editing my own narratives and meta-choices. Biology and past experience still matter, but I actively try to rewrite parts of my story instead of treating them as fixed.",
+    "notes_en": "I explicitly accept the idea that 'free will' is not binary but a question of resolution: how clearly I can see and adjust the values and stories that drive me."
   },
-  "life_check_question_ja": "どのズレなら、死ぬ直前に振り返っても『あれに反応し続けて良かった』と言えるか？",
-  "notes_ja": "このファイルは Hinata Owner Driver Profile v0.1 のスナップショット。今後の経験や視点の変化に応じて v0.2, v0.3... と更新していく前提。"
+  "life_check_question_en": "Which gaps would I still be proud to care about when I look back at my life right before death?",
+  "notes_en": "This file is Hinata Owner Driver Profile v0.1. Future experiences and perspective shifts will be reflected in v0.2, v0.3, etc., rather than silently overwriting this snapshot."
 }
